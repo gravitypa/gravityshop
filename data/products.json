@@ -8,7 +8,7 @@
    "TAMANO": 20,
    "COLOR": "lilac",
    "PRECIO VENTA": 30,
-   "ESTADO": 0
+   "ESTADO": 1
  },
  {
    "ID": 63,
@@ -19,7 +19,7 @@
    "TAMANO": 40,
    "COLOR": "Pistachio",
    "PRECIO VENTA": 44,
-   "ESTADO": 0
+   "ESTADO": 1
  },
  {
    "ID": 62,
@@ -63,7 +63,7 @@
    "TAMANO": 24,
    "COLOR": "Polar",
    "PRECIO VENTA": 34,
-   "ESTADO": 0
+   "ESTADO": 1
  },
  {
    "ID": 58,
@@ -74,7 +74,7 @@
    "TAMANO": 34,
    "COLOR": "Azure",
    "PRECIO VENTA": 34,
-   "ESTADO": 0
+   "ESTADO": 1
  },
  {
    "ID": 57,
@@ -85,7 +85,7 @@
    "TAMANO": 50,
    "COLOR": "lilac",
    "PRECIO VENTA": 46,
-   "ESTADO": 0
+   "ESTADO": 1
  },
  {
    "ID": 56,
@@ -96,7 +96,7 @@
    "TAMANO": 24,
    "COLOR": "Prickly Pear",
    "PRECIO VENTA": 34,
-   "ESTADO": 0
+   "ESTADO": 1
  },
  {
    "ID": 55,
@@ -129,7 +129,7 @@
    "TAMANO": 0,
    "COLOR": "Hammertone Silver",
    "PRECIO VENTA": 50,
-   "ESTADO": 0
+   "ESTADO": 1
  },
  {
    "ID": 52,
