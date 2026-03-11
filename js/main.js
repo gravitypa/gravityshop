@@ -175,7 +175,7 @@ function renderProductos(productos) {
                             <div class="row g-0 align-items-center">
 
                                 <div class="col-md-8 text-center bg-light p-4 d-flex align-items-center justify-content-center">
-                                    <div id="carousel-${producto.ID}" class="carousel slide w-100" data-bs-ride="carousel">
+                                    <div id="carousel-${producto.ID}" class="carousel slide w-100">
                                         <div class="carousel-inner">
                                             <div class="carousel-item active">
                                                 <img src="images/${producto.ID}/image-1.png" class="d-block mx-auto img-fluid" alt="${producto.DESCRIPCION}" style="max-height: 600px; object-fit: contain;">
