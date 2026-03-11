@@ -145,14 +145,7 @@ function renderProductoDetalle(producto) {
                                     <fieldset class="border rounded-3 p-3 mb-3">
                                         <legend class="float-none w-auto px-2 fs-6 fw-bold">
                                             Añade una nota a tu pedido
-                                        </legend>
-
-                                        <div class="form-check">
-                                            <input class="form-check-input" type="checkbox" id="optNota">
-                                            <label class="form-check-label" for="optNota">
-                                                Añade una nota a tu pedido
-                                            </label>
-                                        </div>
+                                        </legend>                                        
 
                                         <textarea class="form-control" id="notaPedido" rows="3" maxlength="200" style="resize: none;"></textarea>
 
