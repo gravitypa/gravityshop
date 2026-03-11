@@ -121,9 +121,9 @@ function renderProductoDetalle(producto) {
                                             </div>
 
                                             <div class="col-md-12 p-2">
-                                                <label for="telefono" class="form-label">Celular</label>
+                                                <label for="telefono" class="form-label">Número de telefono</label>
                                                 <input type="text" class="form-control" id="telefono"
-                                                    placeholder="Número de celular" required>
+                                                    placeholder="Número de telefono" required>
                                             </div>
                                         </div>
                                     </fieldset>
@@ -133,38 +133,10 @@ function renderProductoDetalle(producto) {
                                             Método de Pago
                                         </legend>
 
-                                        <div class="form-check">
-                                            <input class="form-check-input" type="radio"
-                                                name="metodoPago" id="optYappy" value="yappy">
-
-                                            <label class="form-check-label" for="optYappy">
-                                                Yappy
-                                            </label>
-                                        </div>
-
-                                        <div class="collapse mt-2" id="detalleYappy">
-                                            <div class="card card-body text-center">
-                                                <p>Escanee el código Yappy o agregue el número 6678-3861 para completar el pago.</p>
-                                                <div class="qr-container">
-                                                    <img src="assets/qr.svg" alt="Código QR Yappy" class="qr-space">
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="form-check mt-2">
-                                            <input class="form-check-input" type="radio"
-                                                name="metodoPago" id="optTransferencia" value="transferencia">
-
-                                            <label class="form-check-label" for="optTransferencia">
-                                                Transferencia bancaria
-                                            </label>
-                                        </div>
-
-                                        <div class="collapse mt-2" id="detalleTransferencia">
-                                            <div class="card card-body">
-                                                <p>Realizar pago via transferencia a la cuenta 04-72-00-689190-0 (Banco General - Cuenta de Ahorros)
-                                                    a nombre de CARLOS DE GRACIA. Su pedido y factura sera procesado una vez se 
-                                                    confirme la recepcion del comprobante de pago.</p>
+                                        <div class="card card-body text-center">
+                                            <p>Escanee el código Yappy o agregue el número 6678-3861 para completar el pago.</p>
+                                            <div class="qr-container">
+                                                <img src="assets/qr.svg" alt="Código QR Yappy" class="qr-space">
                                             </div>
                                         </div>
 
@@ -172,7 +144,7 @@ function renderProductoDetalle(producto) {
 
                                     <fieldset class="border rounded-3 p-3 mb-3">
                                         <legend class="float-none w-auto px-2 fs-6 fw-bold">
-                                            Nota del pedido
+                                            Añade una nota a tu pedido
                                         </legend>
 
                                         <div class="form-check">
@@ -182,19 +154,14 @@ function renderProductoDetalle(producto) {
                                             </label>
                                         </div>
 
-                                        <div class="collapse mt-2" id="detalleNota">
-                                            <div class="card card-body">
-                                                <textarea class="form-control" id="notaPedido" rows="3" maxlength="200"
-                                                    placeholder="Escribe aquí alguna indicación para tu pedido..."></textarea>
-                                            </div>
-                                        </div>
+                                        <textarea class="form-control" id="notaPedido" rows="3" maxlength="200" style="resize: none;"></textarea>
 
                                     </fieldset>
                                     
                                     <div class="row mt-3">
                                         <div class="col-12 text-end">
                                             <button id="btnConfirmar" class="btn btn-primary btn-space-catalog">
-                                                <i class="bi bi-check-circle me-2"></i>Confirmar Solicitud
+                                                <i class="bi bi-check-circle me-2"></i>Enviar Solicitud
                                             </button>
                                         </div>
                                     </div>                                
