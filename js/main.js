@@ -159,9 +159,7 @@ function renderProductos(productos) {
 
     productos
         .sort((a, b) => {
-            const tipoCompare = a.TIPO.localeCompare(b.TIPO, 'es', { sensitivity: 'base' });
-            if (tipoCompare !== 0) return tipoCompare;
-            return a.TAMANO - b.TAMANO;
+            return parseFloat(a["PRECIO VENTA"]) - parseFloat(b["PRECIO VENTA"]);
         })
         .forEach(producto => {
 
