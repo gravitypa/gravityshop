@@ -1,5 +1,49 @@
 [
  {
+   "ID": 87,
+   "ASIN": "B0DCD93PMN",
+   "DESCRIPCION": "Quencher ProTour",
+   "TIPO": "Quencher",
+   "USO": "Agua",
+   "TAMANO": 64,
+   "COLOR": "Rosado",
+   "PRECIO VENTA": 40,
+   "ESTADO": 1
+ },
+ {
+   "ID": 86,
+   "ASIN": "B0DZQK7NR6",
+   "DESCRIPCION": "Quencher H2.0",
+   "TIPO": "Quencher",
+   "USO": "Agua",
+   "TAMANO": 40,
+   "COLOR": "Azul",
+   "PRECIO VENTA": 44,
+   "ESTADO": 1
+ },
+ {
+   "ID": 85,
+   "ASIN": "B0DZQLTXG8",
+   "DESCRIPCION": "Quencher H2.0",
+   "TIPO": "Quencher",
+   "USO": "Agua",
+   "TAMANO": 40,
+   "COLOR": "Menta",
+   "PRECIO VENTA": 44,
+   "ESTADO": 1
+ },
+ {
+   "ID": 84,
+   "ASIN": "B0DR9NVF72",
+   "DESCRIPCION": "IceFlow 2.0 Flip",
+   "TIPO": "IceFlow",
+   "USO": "Agua",
+   "TAMANO": 20,
+   "COLOR": "Rojo",
+   "PRECIO VENTA": 30,
+   "ESTADO": 1
+ },
+ {
    "ID": 83,
    "ASIN": "B08VPW31C2",
    "DESCRIPCION": "IceFlow Flip Straw",
