@@ -126,21 +126,7 @@ function renderProductoDetalle(producto) {
                                                     placeholder="Número de telefono" required>
                                             </div>
                                         </div>
-                                    </fieldset>
-
-                                    <fieldset class="border rounded-3 p-3 mb-3">
-                                        <legend class="float-none w-auto px-2 fs-6 fw-bold">
-                                            Método de Pago
-                                        </legend>
-
-                                        <div class="card card-body text-center">
-                                            <p>Escanee el código Yappy o agregue el número 6678-3861 para completar el pago.</p>
-                                            <div class="qr-container">
-                                                <img src="assets/qr.svg" alt="Código QR Yappy" class="qr-space">
-                                            </div>
-                                        </div>
-
-                                    </fieldset>
+                                    </fieldset>                                    
 
                                     <fieldset class="border rounded-3 p-3 mb-3">
                                         <legend class="float-none w-auto px-2 fs-6 fw-bold">
