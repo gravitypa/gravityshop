@@ -1,5 +1,456 @@
 [
  {
+   "ID": 128,
+   "ASIN": "B0DT28GFF2",
+   "DESCRIPCION": "IceFlow 2.0",
+   "TIPO": "IceFlow",
+   "USO": "Agua",
+   "TAMANO": 40,
+   "COLOR": "Negro",
+   "PRECIO VENTA": 38,
+   "ESTADO": 1
+ },
+ {
+   "ID": 127,
+   "ASIN": "B0DT2CPCVT",
+   "DESCRIPCION": "IceFlow 2.0",
+   "TIPO": "IceFlow",
+   "USO": "Agua",
+   "TAMANO": 30,
+   "COLOR": "Chocolate",
+   "PRECIO VENTA": 32,
+   "ESTADO": 1
+ },
+ {
+   "ID": 126,
+   "ASIN": "B0DT1ZSJN3",
+   "DESCRIPCION": "IceFlow 2.0",
+   "TIPO": "IceFlow",
+   "USO": "Agua",
+   "TAMANO": 30,
+   "COLOR": "Verde",
+   "PRECIO VENTA": 32,
+   "ESTADO": 1
+ },
+ {
+   "ID": 125,
+   "ASIN": "B0DT1X61JP",
+   "DESCRIPCION": "IceFlow 2.0",
+   "TIPO": "IceFlow",
+   "USO": "Agua",
+   "TAMANO": 30,
+   "COLOR": "Anaranjado",
+   "PRECIO VENTA": 32,
+   "ESTADO": 1
+ },
+ {
+   "ID": 124,
+   "ASIN": "B0DT1ZY31R",
+   "DESCRIPCION": "IceFlow 2.0",
+   "TIPO": "IceFlow",
+   "USO": "Agua",
+   "TAMANO": 30,
+   "COLOR": "Negro",
+   "PRECIO VENTA": 32,
+   "ESTADO": 1
+ },
+ {
+   "ID": 123,
+   "ASIN": "B0DT212NCS",
+   "DESCRIPCION": "IceFlow 2.0",
+   "TIPO": "IceFlow",
+   "USO": "Agua",
+   "TAMANO": 30,
+   "COLOR": "Blanco",
+   "PRECIO VENTA": 32,
+   "ESTADO": 1
+ },
+ {
+   "ID": 122,
+   "ASIN": "B0DT1NBSHB",
+   "DESCRIPCION": "IceFlow 2.0",
+   "TIPO": "IceFlow",
+   "USO": "Agua",
+   "TAMANO": 30,
+   "COLOR": "Rosado",
+   "PRECIO VENTA": 32,
+   "ESTADO": 1
+ },
+ {
+   "ID": 121,
+   "ASIN": "B0DT1PNT35",
+   "DESCRIPCION": "IceFlow 2.0",
+   "TIPO": "IceFlow",
+   "USO": "Agua",
+   "TAMANO": 30,
+   "COLOR": "Gris",
+   "PRECIO VENTA": 32,
+   "ESTADO": 1
+ },
+ {
+   "ID": 120,
+   "ASIN": "B0FB7T8MCV",
+   "DESCRIPCION": "IceFlow 2.0",
+   "TIPO": "IceFlow",
+   "USO": "Agua",
+   "TAMANO": 30,
+   "COLOR": "Morado",
+   "PRECIO VENTA": 32,
+   "ESTADO": 1
+ },
+ {
+   "ID": 119,
+   "ASIN": "B0FB7NY9NW",
+   "DESCRIPCION": "IceFlow 2.0",
+   "TIPO": "IceFlow",
+   "USO": "Agua",
+   "TAMANO": 30,
+   "COLOR": "Anaranjado",
+   "PRECIO VENTA": 32,
+   "ESTADO": 1
+ },
+ {
+   "ID": 118,
+   "ASIN": "B0DT28KTRK",
+   "DESCRIPCION": "IceFlow 2.0",
+   "TIPO": "IceFlow",
+   "USO": "Agua",
+   "TAMANO": 30,
+   "COLOR": "Amarillo",
+   "PRECIO VENTA": 32,
+   "ESTADO": 1
+ },
+ {
+   "ID": 117,
+   "ASIN": "B0FJK95YGY",
+   "DESCRIPCION": "IceFlow 2.0",
+   "TIPO": "IceFlow",
+   "USO": "Agua",
+   "TAMANO": 30,
+   "COLOR": "Verde",
+   "PRECIO VENTA": 32,
+   "ESTADO": 1
+ },
+ {
+   "ID": 116,
+   "ASIN": "B0DT1MQW5S",
+   "DESCRIPCION": "IceFlow 2.0",
+   "TIPO": "IceFlow",
+   "USO": "Agua",
+   "TAMANO": 30,
+   "COLOR": "Verde",
+   "PRECIO VENTA": 32,
+   "ESTADO": 1
+ },
+ {
+   "ID": 115,
+   "ASIN": "B0DR9QJRHZ",
+   "DESCRIPCION": "IceFlow 2.0",
+   "TIPO": "IceFlow",
+   "USO": "Agua",
+   "TAMANO": 30,
+   "COLOR": "Verde",
+   "PRECIO VENTA": 32,
+   "ESTADO": 1
+ },
+ {
+   "ID": 114,
+   "ASIN": "B0CYVRPGM3",
+   "DESCRIPCION": "IceFlow Flip",
+   "TIPO": "IceFlow",
+   "USO": "Agua",
+   "TAMANO": 36,
+   "COLOR": "Menta",
+   "PRECIO VENTA": 44,
+   "ESTADO": 1
+ },
+ {
+   "ID": 113,
+   "ASIN": "B0DT24NHXZ",
+   "DESCRIPCION": "IceFlow 2.0",
+   "TIPO": "IceFlow",
+   "USO": "Agua",
+   "TAMANO": 30,
+   "COLOR": "Azul",
+   "PRECIO VENTA": 32,
+   "ESTADO": 1
+ },
+ {
+   "ID": 112,
+   "ASIN": "B0FB7PR5PS",
+   "DESCRIPCION": "IceFlow 2.0",
+   "TIPO": "IceFlow",
+   "USO": "Agua",
+   "TAMANO": 30,
+   "COLOR": "Verde",
+   "PRECIO VENTA": 36,
+   "ESTADO": 1
+ },
+ {
+   "ID": 111,
+   "ASIN": "B0FB7VPPN5",
+   "DESCRIPCION": "IceFlow 2.0",
+   "TIPO": "IceFlow",
+   "USO": "Agua",
+   "TAMANO": 30,
+   "COLOR": "Celeste",
+   "PRECIO VENTA": 36,
+   "ESTADO": 1
+ },
+ {
+   "ID": 110,
+   "ASIN": "B0DR9NTL71",
+   "DESCRIPCION": "IceFlow 2.0",
+   "TIPO": "IceFlow",
+   "USO": "Agua",
+   "TAMANO": 40,
+   "COLOR": "Lila",
+   "PRECIO VENTA": 44,
+   "ESTADO": 1
+ },
+ {
+   "ID": 109,
+   "ASIN": "B0FSQ63FWL",
+   "DESCRIPCION": "IceFlow 2.0",
+   "TIPO": "IceFlow",
+   "USO": "Agua",
+   "TAMANO": 30,
+   "COLOR": "Crema",
+   "PRECIO VENTA": 32,
+   "ESTADO": 1
+ },
+ {
+   "ID": 108,
+   "ASIN": "B0FPZHSLYR",
+   "DESCRIPCION": "Quencher ProTour",
+   "TIPO": "Quencher",
+   "USO": "Agua",
+   "TAMANO": 30,
+   "COLOR": "Rojo",
+   "PRECIO VENTA": 40,
+   "ESTADO": 1
+ },
+ {
+   "ID": 107,
+   "ASIN": "B0DCTZZ9HG",
+   "DESCRIPCION": "Quencher H2.0",
+   "TIPO": "Quencher",
+   "USO": "Agua",
+   "TAMANO": 30,
+   "COLOR": "Anaranjado",
+   "PRECIO VENTA": 32,
+   "ESTADO": 1
+ },
+ {
+   "ID": 106,
+   "ASIN": "B0CV64341S",
+   "DESCRIPCION": "Quencher H2.0",
+   "TIPO": "Quencher",
+   "USO": "Agua",
+   "TAMANO": 30,
+   "COLOR": "Rosado",
+   "PRECIO VENTA": 32,
+   "ESTADO": 1
+ },
+ {
+   "ID": 105,
+   "ASIN": "B0DR9QL3M5",
+   "DESCRIPCION": "Quencher ProTour",
+   "TIPO": "Quencher",
+   "USO": "Agua",
+   "TAMANO": 30,
+   "COLOR": "Amarillo",
+   "PRECIO VENTA": 40,
+   "ESTADO": 1
+ },
+ {
+   "ID": 104,
+   "ASIN": "B0FJK3LW21",
+   "DESCRIPCION": "Quencher H2.0",
+   "TIPO": "Quencher",
+   "USO": "Agua",
+   "TAMANO": 30,
+   "COLOR": "Verde",
+   "PRECIO VENTA": 32,
+   "ESTADO": 1
+ },
+ {
+   "ID": 103,
+   "ASIN": "B0FB7NWQN5",
+   "DESCRIPCION": "Quencher ProTour",
+   "TIPO": "Quencher",
+   "USO": "Agua",
+   "TAMANO": 30,
+   "COLOR": "Verde",
+   "PRECIO VENTA": 40,
+   "ESTADO": 1
+ },
+ {
+   "ID": 102,
+   "ASIN": "B0F24ZH2FB",
+   "DESCRIPCION": "Quencher H2.0",
+   "TIPO": "Quencher",
+   "USO": "Agua",
+   "TAMANO": 30,
+   "COLOR": "Verde",
+   "PRECIO VENTA": 34,
+   "ESTADO": 1
+ },
+ {
+   "ID": 101,
+   "ASIN": "B0DR9P8TBY",
+   "DESCRIPCION": "Quencher H2.0",
+   "TIPO": "Quencher",
+   "USO": "Agua",
+   "TAMANO": 30,
+   "COLOR": "Celeste",
+   "PRECIO VENTA": 32,
+   "ESTADO": 1
+ },
+ {
+   "ID": 100,
+   "ASIN": "B0DCDBXXHH",
+   "DESCRIPCION": "Quencher ProTour",
+   "TIPO": "Quencher",
+   "USO": "Agua",
+   "TAMANO": 30,
+   "COLOR": "Azul",
+   "PRECIO VENTA": 36,
+   "ESTADO": 1
+ },
+ {
+   "ID": 99,
+   "ASIN": "B0FB7P1P7B",
+   "DESCRIPCION": "Quencher H2.0",
+   "TIPO": "Quencher",
+   "USO": "Agua",
+   "TAMANO": 30,
+   "COLOR": "Celeste",
+   "PRECIO VENTA": 40,
+   "ESTADO": 1
+ },
+ {
+   "ID": 98,
+   "ASIN": "B0DR9PL7Y8",
+   "DESCRIPCION": "Quencher H2.0",
+   "TIPO": "Quencher",
+   "USO": "Agua",
+   "TAMANO": 30,
+   "COLOR": "Celeste",
+   "PRECIO VENTA": 34,
+   "ESTADO": 1
+ },
+ {
+   "ID": 97,
+   "ASIN": "B0DR9PRNDS",
+   "DESCRIPCION": "Quencher ProTour",
+   "TIPO": "Quencher",
+   "USO": "Agua",
+   "TAMANO": 40,
+   "COLOR": "Celeste",
+   "PRECIO VENTA": 44,
+   "ESTADO": 1
+ },
+ {
+   "ID": 96,
+   "ASIN": "B0CJZMP7L1",
+   "DESCRIPCION": "Quencher H2.0",
+   "TIPO": "Quencher",
+   "USO": "Agua",
+   "TAMANO": 30,
+   "COLOR": "Lila",
+   "PRECIO VENTA": 40,
+   "ESTADO": 1
+ },
+ {
+   "ID": 95,
+   "ASIN": "B0DCV38YTM",
+   "DESCRIPCION": "Quencher H2.0",
+   "TIPO": "Quencher",
+   "USO": "Agua",
+   "TAMANO": 30,
+   "COLOR": "Rosado",
+   "PRECIO VENTA": 34,
+   "ESTADO": 1
+ },
+ {
+   "ID": 94,
+   "ASIN": "B0FB7D5PHW",
+   "DESCRIPCION": "Quencher ProTour",
+   "TIPO": "Quencher",
+   "USO": "Agua",
+   "TAMANO": 30,
+   "COLOR": "Rosado",
+   "PRECIO VENTA": 34,
+   "ESTADO": 1
+ },
+ {
+   "ID": 93,
+   "ASIN": "B0DR9PPMRP",
+   "DESCRIPCION": "Quencher H2.0",
+   "TIPO": "Quencher",
+   "USO": "Agua",
+   "TAMANO": 40,
+   "COLOR": "Rosado",
+   "PRECIO VENTA": 44,
+   "ESTADO": 1
+ },
+ {
+   "ID": 92,
+   "ASIN": "B0CRN1XC69",
+   "DESCRIPCION": "Quencher H2.0 FlowState",
+   "TIPO": "Quencher",
+   "USO": "Agua",
+   "TAMANO": 30,
+   "COLOR": "Morado",
+   "PRECIO VENTA": 32,
+   "ESTADO": 1
+ },
+ {
+   "ID": 91,
+   "ASIN": "B0DCDRTXGZ",
+   "DESCRIPCION": "Quencher ProTour",
+   "TIPO": "Quencher",
+   "USO": "Agua",
+   "TAMANO": 20,
+   "COLOR": "Negro",
+   "PRECIO VENTA": 30,
+   "ESTADO": 1
+ },
+ {
+   "ID": 90,
+   "ASIN": "B0DR9LSSWS",
+   "DESCRIPCION": "Quencher ProTour",
+   "TIPO": "Quencher",
+   "USO": "Agua",
+   "TAMANO": 30,
+   "COLOR": "Crema",
+   "PRECIO VENTA": 36,
+   "ESTADO": 1
+ },
+ {
+   "ID": 89,
+   "ASIN": "B0DCF2LYHH",
+   "DESCRIPCION": "Quencher ProTour",
+   "TIPO": "Quencher",
+   "USO": "Agua",
+   "TAMANO": 40,
+   "COLOR": "Rosado",
+   "PRECIO VENTA": 44,
+   "ESTADO": 1
+ },
+ {
+   "ID": 88,
+   "ASIN": "B0DCF5C8DY",
+   "DESCRIPCION": "Quencher ProTour",
+   "TIPO": "Quencher",
+   "USO": "Agua",
+   "TAMANO": 30,
+   "COLOR": "Blanco",
+   "PRECIO VENTA": 36,
+   "ESTADO": 1
+ },
+ {
    "ID": 87,
    "ASIN": "B0DCD93PMN",
    "DESCRIPCION": "Quencher ProTour",
@@ -40,8 +491,8 @@
    "USO": "Agua",
    "TAMANO": 20,
    "COLOR": "Rojo",
-   "PRECIO VENTA": 30,
-   "ESTADO": 1
+   "PRECIO VENTA": 38,
+   "ESTADO": 0
  },
  {
    "ID": 83,
@@ -106,8 +557,8 @@
    "USO": "Agua",
    "TAMANO": 64,
    "COLOR": "Rojo",
-   "PRECIO VENTA": 68,
-   "ESTADO": 0
+   "PRECIO VENTA": 52,
+   "ESTADO": 1
  },
  {
    "ID": 77,
@@ -128,7 +579,7 @@
    "USO": "Agua",
    "TAMANO": 36,
    "COLOR": "Anaranjado",
-   "PRECIO VENTA": 46,
+   "PRECIO VENTA": 48,
    "ESTADO": 0
  },
  {
@@ -150,7 +601,7 @@
    "USO": "Agua",
    "TAMANO": 36,
    "COLOR": "Celeste",
-   "PRECIO VENTA": 42,
+   "PRECIO VENTA": 38,
    "ESTADO": 1
  },
  {
@@ -194,8 +645,8 @@
    "USO": "Agua",
    "TAMANO": 40,
    "COLOR": "70s Superstar",
-   "PRECIO VENTA": 52,
-   "ESTADO": 1
+   "PRECIO VENTA": 74,
+   "ESTADO": 0
  },
  {
    "ID": 69,
@@ -216,8 +667,8 @@
    "USO": "Agua",
    "TAMANO": 40,
    "COLOR": "Barbie Icon",
-   "PRECIO VENTA": 74,
-   "ESTADO": 0
+   "PRECIO VENTA": 52,
+   "ESTADO": 1
  },
  {
    "ID": 67,
@@ -249,7 +700,7 @@
    "USO": "Agua",
    "TAMANO": 20,
    "COLOR": "Lila",
-   "PRECIO VENTA": 38,
+   "PRECIO VENTA": 32,
    "ESTADO": 0
  },
  {
@@ -260,8 +711,8 @@
    "USO": "Agua/Cafe",
    "TAMANO": 20,
    "COLOR": "Lila",
-   "PRECIO VENTA": 30,
-   "ESTADO": 1
+   "PRECIO VENTA": 42,
+   "ESTADO": 0
  },
  {
    "ID": 63,
@@ -271,7 +722,7 @@
    "USO": "Agua",
    "TAMANO": 40,
    "COLOR": "Verde",
-   "PRECIO VENTA": 44,
+   "PRECIO VENTA": 30,
    "ESTADO": 1
  },
  {
@@ -282,8 +733,8 @@
    "USO": "Agua",
    "TAMANO": 30,
    "COLOR": "Rosado",
-   "PRECIO VENTA": 36,
-   "ESTADO": 1
+   "PRECIO VENTA": 46,
+   "ESTADO": 0
  },
  {
    "ID": 61,
@@ -293,7 +744,7 @@
    "USO": "Agua",
    "TAMANO": 24,
    "COLOR": "Azul",
-   "PRECIO VENTA": 40,
+   "PRECIO VENTA": 36,
    "ESTADO": 0
  },
  {
@@ -315,8 +766,8 @@
    "USO": "Agua",
    "TAMANO": 24,
    "COLOR": "Blanco",
-   "PRECIO VENTA": 34,
-   "ESTADO": 1
+   "PRECIO VENTA": 38,
+   "ESTADO": 0
  },
  {
    "ID": 58,
@@ -337,8 +788,8 @@
    "USO": "Agua",
    "TAMANO": 50,
    "COLOR": "Lila",
-   "PRECIO VENTA": 66,
-   "ESTADO": 0
+   "PRECIO VENTA": 46,
+   "ESTADO": 1
  },
  {
    "ID": 56,
@@ -348,7 +799,7 @@
    "USO": "Agua",
    "TAMANO": 24,
    "COLOR": "Amarillo",
-   "PRECIO VENTA": 38,
+   "PRECIO VENTA": 36,
    "ESTADO": 0
  },
  {
@@ -392,7 +843,7 @@
    "USO": "Agua",
    "TAMANO": 50,
    "COLOR": "Lila",
-   "PRECIO VENTA": 52,
+   "PRECIO VENTA": 54,
    "ESTADO": 1
  },
  {
@@ -491,7 +942,7 @@
    "USO": "Agua",
    "TAMANO": 36,
    "COLOR": "Azul",
-   "PRECIO VENTA": 42,
+   "PRECIO VENTA": 38,
    "ESTADO": 1
  },
  {
@@ -513,7 +964,7 @@
    "USO": "Agua",
    "TAMANO": 40,
    "COLOR": "Gris",
-   "PRECIO VENTA": 42,
+   "PRECIO VENTA": 52,
    "ESTADO": 0
  },
  {
@@ -524,8 +975,8 @@
    "USO": "Agua",
    "TAMANO": 30,
    "COLOR": "Rosado",
-   "PRECIO VENTA": 34,
-   "ESTADO": 1
+   "PRECIO VENTA": 48,
+   "ESTADO": 0
  },
  {
    "ID": 39,
@@ -557,8 +1008,8 @@
    "USO": "Agua",
    "TAMANO": 34,
    "COLOR": "Verde",
-   "PRECIO VENTA": 48,
-   "ESTADO": 0
+   "PRECIO VENTA": 34,
+   "ESTADO": 1
  },
  {
    "ID": 36,
@@ -568,7 +1019,7 @@
    "USO": "Agua",
    "TAMANO": 50,
    "COLOR": "Rosado",
-   "PRECIO VENTA": 44,
+   "PRECIO VENTA": 50,
    "ESTADO": 1
  },
  {
@@ -579,7 +1030,7 @@
    "USO": "Agua",
    "TAMANO": 50,
    "COLOR": "Blanco",
-   "PRECIO VENTA": 40,
+   "PRECIO VENTA": 42,
    "ESTADO": 1
  },
  {
@@ -788,8 +1239,8 @@
    "USO": "Agua",
    "TAMANO": 24,
    "COLOR": "Amarillo",
-   "PRECIO VENTA": 34,
-   "ESTADO": 1
+   "PRECIO VENTA": 42,
+   "ESTADO": 0
  },
  {
    "ID": 15,
@@ -821,7 +1272,7 @@
    "USO": "Agua",
    "TAMANO": 16,
    "COLOR": "Verde",
-   "PRECIO VENTA": 36,
+   "PRECIO VENTA": 32,
    "ESTADO": 0
  },
  {
@@ -844,7 +1295,7 @@
    "TAMANO": 20,
    "COLOR": "Celeste",
    "PRECIO VENTA": 30,
-   "ESTADO": 1
+   "ESTADO": 0
  },
  {
    "ID": 10,
@@ -876,7 +1327,7 @@
    "USO": "Agua",
    "TAMANO": 30,
    "COLOR": "Amarillo",
-   "PRECIO VENTA": 42,
+   "PRECIO VENTA": 46,
    "ESTADO": 0
  },
  {
@@ -931,8 +1382,8 @@
    "USO": "Agua",
    "TAMANO": 16,
    "COLOR": "Azul",
-   "PRECIO VENTA": 32,
-   "ESTADO": 0
+   "PRECIO VENTA": 30,
+   "ESTADO": 1
  },
  {
    "ID": 2,
