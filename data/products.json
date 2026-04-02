@@ -282,8 +282,8 @@
    "USO": "Agua",
    "TAMANO": 30,
    "COLOR": "Verde",
-   "PRECIO VENTA": 38,
-   "ESTADO": 1
+   "PRECIO VENTA": 50,
+   "ESTADO": 0
  },
  {
    "ID": 102,
@@ -447,8 +447,8 @@
    "USO": "Agua",
    "TAMANO": 30,
    "COLOR": "Blanco",
-   "PRECIO VENTA": 36,
-   "ESTADO": 1
+   "PRECIO VENTA": 50,
+   "ESTADO": 0
  },
  {
    "ID": 87,
@@ -546,7 +546,7 @@
    "USO": "Agua",
    "TAMANO": 36,
    "COLOR": "Azul",
-   "PRECIO VENTA": 42,
+   "PRECIO VENTA": 40,
    "ESTADO": 1
  },
  {
@@ -722,7 +722,7 @@
    "USO": "Agua",
    "TAMANO": 40,
    "COLOR": "Verde",
-   "PRECIO VENTA": 30,
+   "PRECIO VENTA": 44,
    "ESTADO": 1
  },
  {
@@ -766,7 +766,7 @@
    "USO": "Agua",
    "TAMANO": 24,
    "COLOR": "Blanco",
-   "PRECIO VENTA": 40,
+   "PRECIO VENTA": 38,
    "ESTADO": 0
  },
  {
@@ -777,8 +777,8 @@
    "USO": "Agua",
    "TAMANO": 34,
    "COLOR": "Azul",
-   "PRECIO VENTA": 48,
-   "ESTADO": 0
+   "PRECIO VENTA": 40,
+   "ESTADO": 1
  },
  {
    "ID": 57,
@@ -843,8 +843,8 @@
    "USO": "Agua",
    "TAMANO": 50,
    "COLOR": "Lila",
-   "PRECIO VENTA": 56,
-   "ESTADO": 0
+   "PRECIO VENTA": 50,
+   "ESTADO": 1
  },
  {
    "ID": 51,
@@ -865,8 +865,8 @@
    "USO": "Agua",
    "TAMANO": 36,
    "COLOR": "Lila",
-   "PRECIO VENTA": 38,
-   "ESTADO": 0
+   "PRECIO VENTA": 26,
+   "ESTADO": 1
  },
  {
    "ID": 49,
@@ -898,7 +898,7 @@
    "USO": "Cafe",
    "TAMANO": 35.2,
    "COLOR": "Verde",
-   "PRECIO VENTA": 34,
+   "PRECIO VENTA": 32,
    "ESTADO": 1
  },
  {
@@ -1019,7 +1019,7 @@
    "USO": "Agua",
    "TAMANO": 50,
    "COLOR": "Rosado",
-   "PRECIO VENTA": 46,
+   "PRECIO VENTA": 44,
    "ESTADO": 1
  },
  {
@@ -1118,8 +1118,8 @@
    "USO": "Cafe",
    "TAMANO": 16,
    "COLOR": "Negro",
-   "PRECIO VENTA": 30,
-   "ESTADO": 1
+   "PRECIO VENTA": 46,
+   "ESTADO": 0
  },
  {
    "ID": 26,
@@ -1173,7 +1173,7 @@
    "USO": "Cerveza",
    "TAMANO": 24,
    "COLOR": "Negro",
-   "PRECIO VENTA": 38,
+   "PRECIO VENTA": 32,
    "ESTADO": 0
  },
  {
@@ -1283,8 +1283,8 @@
    "USO": "Agua",
    "TAMANO": 36,
    "COLOR": "Amarillo",
-   "PRECIO VENTA": 42,
-   "ESTADO": 1
+   "PRECIO VENTA": 46,
+   "ESTADO": 0
  },
  {
    "ID": 11,
@@ -1371,8 +1371,8 @@
    "USO": "Agua",
    "TAMANO": 24,
    "COLOR": "Lila",
-   "PRECIO VENTA": 34,
-   "ESTADO": 1
+   "PRECIO VENTA": 46,
+   "ESTADO": 0
  },
  {
    "ID": 3,
